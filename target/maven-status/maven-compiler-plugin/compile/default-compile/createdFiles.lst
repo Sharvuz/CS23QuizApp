@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+com\hqv\quizzapp\SecondaryController.class
+com\hqv\quizzapp\App.class
+com\hqv\quizzapp\PrimaryController.class
+module-info.class
+com\hqv\utils\MyAlert.class
+=======
+com\hqv\singlet\PrimaryController.class
+com\hqv\utils\theme\DefaultFactory.class
+com\hqv\pojo\Question.class
+com\hqv\utils\MyStage.class
+com\hqv\utils\theme\DarkFactory.class
+com\hqv\utils\theme\Theme$3.class
+com\hqv\utils\MyAlert.class
+com\hqv\singlet\PracticeController.class
+com\hqv\utils\JdbcConnector.class
+com\hqv\utils\Configs.class
+module-info.class
+com\hqv\pojo\Question$Builder.class
+com\hqv\utils\theme\LightFactory.class
+com\hqv\utils\theme\ThemeFactory.class
+com\hqv\services\QuestionServices.class
+com\hqv\utils\theme\Theme$1.class
+com\hqv\pojo\Choice.class
+com\hqv\services\CategoryServices.class
+com\hqv\utils\theme\ThemeManager.class
+com\hqv\singlet\App.class
+com\hqv\pojo\Category.class
+com\hqv\singlet\SecondaryController.class
+com\hqv\utils\theme\Theme$2.class
+com\hqv\services\LevelServices.class
+com\hqv\pojo\Level.class
+com\hqv\utils\theme\Theme.class
+com\hqv\singlet\QuestionsManagementController.class
+>>>>>>> 4ece615 (quiz)

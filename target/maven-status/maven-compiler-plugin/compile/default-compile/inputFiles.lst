@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+D:\DS23CS01\QuizzApp\src\main\java\com\hqv\utils\MyAlert.java
+D:\DS23CS01\QuizzApp\src\main\java\com\hqv\quizzapp\SecondaryController.java
+D:\DS23CS01\QuizzApp\src\main\java\com\hqv\quizzapp\App.java
+D:\DS23CS01\QuizzApp\src\main\java\module-info.java
+D:\DS23CS01\QuizzApp\src\main\java\com\hqv\quizzapp\PrimaryController.java
+=======
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\singlet\QuestionsManagementController.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\services\LevelServices.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\MyStage.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\Configs.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\singlet\SecondaryController.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\pojo\Category.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\services\CategoryServices.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\theme\Theme.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\theme\DarkFactory.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\pojo\Question.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\JdbcConnector.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\services\QuestionServices.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\module-info.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\pojo\Level.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\singlet\PrimaryController.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\singlet\App.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\singlet\PracticeController.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\theme\ThemeFactory.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\MyAlert.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\theme\LightFactory.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\theme\ThemeManager.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\utils\theme\DefaultFactory.java
+C:\Su Study\Design Pattern\lab\QuizApp\src\main\java\com\hqv\pojo\Choice.java
+>>>>>>> 4ece615 (quiz)
