@@ -1,2 +1,2 @@
 # CS23QuizApp
-Design Pattern
+Design Pattern JavaFX
